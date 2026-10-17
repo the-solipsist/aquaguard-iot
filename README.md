@@ -7,7 +7,8 @@ for any of it.
 
 > **Not affiliated with Eureka Forbes.** For interoperability, research and
 > personal use. Use at your own risk; some operations are destructive (see Safety).
-> Do not use on equipment you do not own.
+> Do not use on equipment you do not own. Reverse engineering for interoperability
+> is permitted under s.52(1)(ac) of the Indian Copyright Act — see below.
 
 ## What's here
 
@@ -71,6 +72,25 @@ docs/    protocol, full API reference, runbook
 tools/   cloud CLI, local BLE/TCP client, monitor
 ```
 
+## Reverse engineering & legal
+
+This project was produced by studying and reverse-engineering an application you
+lawfully possess, in order to interoperate with it. In India, such reverse
+engineering for **interoperability** is a permitted act under **Section 52(1)(ac)
+of the Copyright Act, 1957**, which allows the adaptation or alteration of a
+computer programme by a lawful possessor of a copy to obtain information essential
+for the interoperability of an independently created programme with other
+programmes (subject to the conditions in that clause).
+
+This is a description of the applicable exception, not legal advice. You are
+responsible for how you use this material.
+
 ## License
 
-MIT (see [LICENSE](LICENSE)).
+**0BSD** (BSD Zero Clause) — Copyright (c) 2026 Pranesh Prakash. See [LICENSE](LICENSE).
+
+## Contributors
+
+- Pranesh Prakash
+- DeepSeek Flash 4.1
+
